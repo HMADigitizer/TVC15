@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 74,
+    "height" : 116
+  }, {
+    "width" : 148,
+    "height" : 232
+  }, {
+    "width" : 295,
+    "height" : 464
+  }, {
+    "width" : 590,
+    "height" : 928
+  }, {
+    "width" : 1179,
+    "height" : 1856
+  }, {
+    "width" : 2357,
+    "height" : 3712
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2357,
+  "@id" : "https://HMADigitizer.github.io/TVC15/images/W98334178_001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3712
+}
