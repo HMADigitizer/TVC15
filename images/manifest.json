@@ -1,0 +1,66 @@
+{
+  "id" : "https://HMADigitizer.github.io/TVC15/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in HMADigitizer/TVC15 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2357,
+    "id" : "https://HMADigitizer.github.io/TVC15/images/W98334178_001/canvas/",
+    "label" : {
+      "none" : [ "W98334178_001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://HMADigitizer.github.io/TVC15/images/W98334178_001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://HMADigitizer.github.io/TVC15/images/W98334178_001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 116
+            }, {
+              "width" : 148,
+              "height" : 232
+            }, {
+              "width" : 295,
+              "height" : 464
+            }, {
+              "width" : 590,
+              "height" : 928
+            }, {
+              "width" : 1179,
+              "height" : 1856
+            }, {
+              "width" : 2357,
+              "height" : 3712
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2357,
+            "@id" : "https://HMADigitizer.github.io/TVC15/images/W98334178_001",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3712
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2357,
+          "id" : "https://HMADigitizer.github.io/TVC15/images/W98334178_001/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3712
+        },
+        "target" : "https://HMADigitizer.github.io/TVC15/images/W98334178_001/canvas/"
+      } ]
+    } ],
+    "height" : 3712
+  } ]
+}
